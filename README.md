@@ -113,4 +113,4 @@ This project is licensed under the MIT License.
 
 ## ✍️ Authors
 
-- Sukhmandeep singh (sukhmandeep2125@gmail.com)
+- Suyash Dixit (suyash.dixit834@gmail.com)
