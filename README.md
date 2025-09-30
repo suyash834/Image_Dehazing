@@ -40,8 +40,8 @@ This repository contains a complete pipeline for real-time image and video dehaz
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/sukhmandeep2125/real-time-dehazing-using-deep-learning.git
-cd real-time-dehazing-using-deep-learning
+git clone https://github.com/suyash834/Image_Dehazing.git
+cd Imgae_Dehazing
 ```
 ### 2. Install Dependencies
 ```bash

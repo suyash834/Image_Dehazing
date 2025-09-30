@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pth
+*.ipynb_checkpoints
+.env
+.venv
+env/
+venv/
+.DS_Store
+*.log
+
+
+# Ignore VSCode and Jupyter hidden folders
+.vscode/
+.ipynb_checkpoints/
